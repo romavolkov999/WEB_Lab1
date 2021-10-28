@@ -1,0 +1,78 @@
+body {
+	font: 100% Trebuchet MS;/*основа и заголовок*/
+	background-image: url(images/balloons3.jpg);
+	color: rgb(0, 0, 0);
+	height: 70px;
+	margin: 11px 110px 33px 110px;
+}
+
+tr {
+	font-size: 30px;
+}
+td {
+	text-align: center;
+	vertical-align:auto;
+}
+p {
+	border-width: 2px 60px 3px;
+	text-indent: 30px;
+}
+title {
+	color: rgb(0, 0, 0);
+	height: 70px;
+	border: 1px solid black;
+}
+table {
+	width: 100%;
+	height: 40px;
+	table-layout: fixed;
+	border: 0;
+}
+.left {
+	float: left;
+	padding: 0 20px 20px 0;
+}
+.right {
+	float: right;
+	padding: 0 20px 20px 0;
+}
+.bold {
+	color: #337;
+	font-family: "Trebuchet MS"; /*главна€, о сайте*/
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.choice {
+	background: #337;
+	width: 50%;
+	height: 40px;
+	padding: 1px; /* ѕол€ вокруг текста */
+}
+.choice1 {
+	outline-style: auto;
+	outline-color: #337; /* ÷вет границы */
+	padding: 1px; /* ѕол€ вокруг текста */
+}
+
+.titles {
+	color: #FFFFFF;
+	font-family: "Trebuchet MS"; /*главна€, о сайте*/
+	font-weight: bold;
+	font-size: 20px;
+}
+.titles1 {
+	color: #337;
+	font-family: "Trebuchet MS"; /*главна€, о сайте*/
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0 20px 25px;
+	font-size: 175%;
+	letter-spacing: 5px;
+	color: #337;/*заголовок*/
+	text-align: center;
+}
